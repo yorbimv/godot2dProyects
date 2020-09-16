@@ -7,12 +7,12 @@ UAM CUAJIMALPA 2020
 V1
 
 Movimientos de Personaje
-TileMap ( Creacion del mapa)
-Atomo Narrativo
-Compatibilidad con html5 (beta)
-Compatibilidad con mac, formato dmg (beta )
-Compatibilidad con windows 10 ( beta )
-Ejecucion del Juego:
+- TileMap ( Creacion del mapa)
+- Atomo Narrativo
+- Compatibilidad con html5 (beta)
+- Compatibilidad con mac, formato dmg (beta )
+- Compatibilidad con windows 10 ( beta )
+- Ejecucion del Juego:
 
 Instalar un servidor local como xamp, apache,wamp etc
 Ejecutar un servidor localhost

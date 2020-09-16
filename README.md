@@ -10,6 +10,14 @@ V1
 - Movimientos de Personaje
 - TileMap ( Creacion del mapa)
 - Atomo Narrativo
--Compatibilidad con html5
--Compatibilidad con mac, formato dmg
--Compatibilidad con windows 10 ( beta )
+- Compatibilidad con html5
+- Compatibilidad con mac, formato dmg
+- Compatibilidad con windows 10 ( beta )
+
+
+Ejecucion del Juego:
+
+- Instalar un servidor local
+- Ejecutar un servidor localhost
+- Copiar la carpeta "V1"
+- Ejecutar index.html

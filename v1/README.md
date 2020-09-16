@@ -17,7 +17,14 @@ V1
 
 Ejecucion del Juego:
 
-- Instalar un servidor local
+- Instalar un servidor local como xamp, apache,wamp etc
 - Ejecutar un servidor localhost
-- Copiar la carpeta "godotProyects2dV1"
+- Copiar la carpeta "V1" dentro de la carpeta del servidor
 - Ejecutar index.html
+
+
+
+Controles:
+
+Flechas para mover personaje
+Tecla espacio para saltar.
